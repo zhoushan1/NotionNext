@@ -28,8 +28,8 @@ Here are some commands that you can use:
 ## Creating new themes
 
 If you want to submit your custom theme to NotionNext, copy a new folder in
-[`themes`][themes-dir] from [`example`][example]. The folder name  will be the
-theme's key. 
+[`themes`][themes-dir] from [`example`][example]. The folder name will be the
+theme's key.
 
 ## Adding localizations
 
@@ -39,11 +39,11 @@ localization! Follow these steps to add a new localization:
 1. Copy one of the [en-US.js][en-US.js] in [lang-dir][lang-dir] and rename the new
    directory into your language's code ( e.g. `zh-CN.js`).
 2. Start translating the strings.
-3. Add your language config to [lang.js][lang.js]. 
+3. Add your language config to [lang.js][lang.js].
 4. [Create a PR][pr] with your localization updates.
 
-[fork]: https://github.com/tangly1024/NotionNext/fork
-[pr]: https://github.com/tangly1024/NotionNext/compare
+[fork]: https://github.com/zhoushan1/NotionNext/fork
+[pr]: https://github.com/zhoushan1/NotionNext/compare
 [next.js]: https://github.com/vercel/next.js
 [themes-dir]: themes
 [example]: themes/example
